@@ -1,4 +1,4 @@
-# Traffic Shaper using Token Bucker filter
+# Traffic Shaper using Token Bucket filter
 
 <h2>Disclaimer</h2>
 This repository is a placeholder for Traffic Shaper system which I have implemented as part of the graduate level course, CSCI 402 - Operating systems, which I have taken at USC (Spring 2020). The course instructor is Prof. Bill Cheng.
