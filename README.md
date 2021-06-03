@@ -1,11 +1,11 @@
 # Traffic Shaper using Token Bucket filter
 
 <h2>Disclaimer</h2>
-This repository is a placeholder for Traffic Shaper system which I have implemented as part of the graduate level course, CSCI 402 - Operating systems, which I have taken at USC (Spring 2020). The course instructor is Prof. Bill Cheng.
+This repository is a placeholder for Traffic Shaper system which I implemented as part of the graduate level course, CSCI 402 - Operating systems (Spring 2021), taught at USC by Prof. Bill Cheng. (course website: http://merlot.usc.edu/cs402-s21/)
 
-For more info about the course and instructor, see: http://merlot.usc.edu/william/usc/
+For more info about the instructor, see: http://merlot.usc.edu/william/usc/
 
-Note: The actual repository, which contains the source code, has been made private so as to honour the code of conduct of the University. It will only be available to potential employers who want to assess my capabilities in similar domains (and also who will agree not to share it with anyone else too). If you want to look at the code, email me at: aditya.chandupatla@gmail.com
+Note: The actual repository, which contains the source code, has been made private so as to honour the code of conduct of the University. It will only be available to potential employers who want to assess my capabilities in similar domains (and also who will agree not to share it with anyone else too). If you want to look at the code, contact me at https://pratulyab.github.io
 
 <h2>Brief description of the system</h2>
 <p>This is a system developed entirely using C programming language by utilising low level constructs such as: POSIX threads, mutex, signals, dynamic memory using malloc/free, etc.</p>
